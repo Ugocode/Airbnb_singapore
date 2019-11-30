@@ -5,4 +5,8 @@ Kaggle project on the Airbnb of Singapore
 ![](airbnb.jpg)
 
 # File Guide:
-image for the
+Image for this project
+
+Ipynb file
+
+listings.csv : this is the data I worked with 
