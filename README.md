@@ -14,3 +14,5 @@ listings.csv : this is the data I worked with
 # EDA : Exploratory Data Analysis
 
 An Extensive EDA was done 
+
+Got major insights in the data that helped in the features engineering processes 
