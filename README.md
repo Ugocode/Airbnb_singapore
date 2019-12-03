@@ -4,6 +4,10 @@ Kaggle project on the Airbnb of Singapore
 
 ![](airbnb.jpg)
 
+# Problem Statement
+
+This a project on the Airbnb of singapore, the projects looks at getting insights on the renting of real estate prices for short stay in singarpore and to predict the cost of such stay using the available data 
+
 # File Guide:
 Image for this project
 
