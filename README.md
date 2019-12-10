@@ -20,3 +20,7 @@ listings.csv : this is the data I worked with
 An Extensive EDA was done 
 
 Got major insights in the data that helped in the features engineering processes 
+
+# Data Preprocessing:
+
+The data used was skewed, in this case unbalanced so i have to make some data preprocessing by upsampling the training dataset  
