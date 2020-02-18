@@ -23,4 +23,8 @@ Got major insights in the data that helped in the features engineering processes
 
 # Data Preprocessing:
 
-The data used was skewed, in this case unbalanced so i have to make some data preprocessing by upsampling the training dataset  
+The data used was skewed, in this case unbalanced so i have to make some data preprocessing by upsampling the training dataset 
+
+# Insights
+
+Insights from my data shows that the type of rooms affect the prices of the short stay for example there are Private rooms and Entire apartments and as such diffrent prices.
