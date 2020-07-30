@@ -6,7 +6,7 @@ Kaggle project on the Airbnb of Singapore.
 
 # Problem Statement
 
-This is a Kaggle project on the Airbnb of singapore, the project looks at getting insights on the renting of real estate prices for short stay in singarpore and to predict the cost of such stay using the available data 
+This is a Kaggle project on the Airbnb of singapore, the project looks at getting insights on the renting of real estate prices for short stay in singarpore and to predict the cost of such stay using the available data. 
 
 # File Guide:
 Image for this project
@@ -20,6 +20,8 @@ listings.csv : This is the data I worked with
 An Extensive EDA was done on this project and I
 
 Got major insights in the data that helped in the features engineering processes. 
+
+Check project file for full details.
 
 # Data Preprocessing:
 
